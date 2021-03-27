@@ -1,4 +1,4 @@
-import { registraImagen } from './lazy';
+import { registraImagen } from './lazy.js';
 
 const min = 1;
 const max = 122; //Cantidad de imagenes que tiene el API en este momento
